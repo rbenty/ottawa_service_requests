@@ -1,0 +1,3 @@
+data/cleaned/*
+notebooks/.ipynb_checkpoints
+.DS_STORE
